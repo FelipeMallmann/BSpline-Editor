@@ -1,5 +1,5 @@
 ## BSpline Editor
-BSpline is a curve with is made by control points, this script lets you manipulate a bspline curve and save it to .obj and .material files
+BSpline is a curve with is made by control points, this script lets you manipulate a bspline curve and save it to .obj and .mat files
 
 ##### Commands
 - LMB: add control points.
